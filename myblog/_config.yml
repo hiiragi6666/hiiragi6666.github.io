@@ -33,6 +33,7 @@ github_username:  hiiragi6666
 theme: minima
 plugins:
   - jekyll-feed
+url: hiiragi6666.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.

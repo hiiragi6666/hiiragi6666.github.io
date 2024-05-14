@@ -5,7 +5,7 @@
   email: 暂无
   description: "写一句你想写的话"
   keyword: "我的博客"
-  url: "http://name.github.io"          # name改成你的ID
+  url: "http://hiiragi6666.github.io"          # name改成你的ID
   baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
   github_repo: "https://github.com/hiiragi6666/hiiragi6666.github.io.git" # 用你的ID替换name
 

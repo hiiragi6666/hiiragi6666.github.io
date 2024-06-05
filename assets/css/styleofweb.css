@@ -1,0 +1,22 @@
+a:link {
+	color: #006;
+	text-decoration: none;
+}
+a:visited {
+	color: #900;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline overline;
+	background-color: #999;
+}
+a:active {
+	text-decoration: none;
+	background-color: #C69;
+}
+.typeFont {
+	font-family: "幼圆";
+	font-size: 18px;
+	color: #333;
+	line-height: 24px;
+}
